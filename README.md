@@ -13,7 +13,7 @@
 - 돌봄 학급, 돌봄 교사, 돌봄 학생, 보호자의 정보 관리로 데이터 정리
 
 # 전체 프로젝트 구조
-
+<img src="https://github.com/ArmadilloCapstone/project/issues/1#issue-1736123436">
  
 # 팀 Armadillo
 - [김주현](https://github.com/cocosome) : Backend Developer

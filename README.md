@@ -6,14 +6,13 @@
 ‘돌보미’는 돌봄 교실과 늘봄교실의 운영을 체계적으로 관리하고 조율합니다.
 
 서비스의 주요 기능:
-학생 개별의 시간표를 한 화면에 현재 시간과 함께 나타냄
-학생의 위치 상태를 학부모가 실시간으로 확인 가능함
-학생 호출을 모아 교사에게 팝업으로 일정 시간마다 제시함
-게시판, 사진첩, 메신저의 운영으로 교사와 학부모와의 소통 실현
-보호자 정보 관리로 학생의 안전을 보장
-돌봄 학급, 돌봄 교사, 돌봄 학생, 보호자의 정보 관리로 데이터 정리
+- 학생 개별의 시간표를 한 화면에 현재 시간과 함께 나타냄
+- 학생의 위치 상태를 학부모가 실시간으로 확인 가능함
+- 학생 호출을 모아 교사에게 팝업으로 일정 시간마다 제시함
+- 게시판, 사진첩, 메신저의 운영으로 교사와 학부모와의 소통 실현
+- 보호자 정보 관리로 학생의 안전을 보장
+- 돌봄 학급, 돌봄 교사, 돌봄 학생, 보호자의 정보 관리로 데이터 정리
 
-이 프로젝트는 5인으로 구성된 Armadillo팀이 개발하였으며, 캡스톤디자인 과목의 일환으로 2023년 3월부터 6월까지 진행하였습니다.
 
  
 # 팀 Armadillo
@@ -32,6 +31,8 @@
 <img src="https://img.shields.io/badge/Github-31AAFB?style=for-the-badge&logo=Github&logoColor=white"><img src="https://img.shields.io/badge/github actions-61DAFB?style=for-the-badge&logo=githubactions&logoColor=black"><img src="https://img.shields.io/badge/visual studio code-6272A6?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/intellij-764A0C?style=for-the-badge&logo=intellijidea&logoColor=white"><img src="https://img.shields.io/badge/google Team Drive-010AFB?style=for-the-badge&logo=googledrive&logoColor=white">
 
 # 프로젝트 소개
+- 5인으로 구성된 Armadillo팀이 개발하였으며, 캡스톤디자인 과목의 일환으로 2023년 3월부터 6월까지 진행하였습니다.
+- Agile 방법론을 사용하였고, iteration은 2주 간격으로 scrum은 매주 월, 목에 진행하였습니다.
 
 # 프로젝트 기획서 및 팀 Drive
 https://drive.google.com/drive/u/1/folders/105wbcwjUgqJ5kpBFWA2wyeBdutyHN6e5

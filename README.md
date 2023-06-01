@@ -15,7 +15,7 @@
 ## BackEnd
 <img src="https://img.shields.io/badge/SpringBoot-01DAFB?style=for-the-badge&logo=SpringBoot&logoColor=black"><img src="https://img.shields.io/badge/Mysql-1502B6?style=for-the-badge&logo=Mysql&logoColor=white"><img src="https://img.shields.io/badge/Socket.io-764ABC?style=for-the-badge&logo=Socket.io&logoColor=purple">
 ## DevOps
-<img src="https://img.shields.io/badge/Github-31AAFB?style=for-the-badge&logo=Github&logoColor=black"><img src="https://img.shields.io/badge/github actions-61DAFB?style=for-the-badge&logo=githubactions&logoColor=black"><img src="https://img.shields.io/badge/visual studio code-6272A6?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/intellij-764A0C?style=for-the-badge&logo=intellijidea&logoColor=purple"><img src="https://img.shields.io/badge/google Team Drive-010AFB?style=for-the-badge&logo=googledrive&logoColor=black">
+<img src="https://img.shields.io/badge/Github-31AAFB?style=for-the-badge&logo=Github&logoColor=black"><img src="https://img.shields.io/badge/github actions-61DAFB?style=for-the-badge&logo=githubactions&logoColor=black"><img src="https://img.shields.io/badge/visual studio code-6272A6?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/intellij-764A0C?style=for-the-badge&logo=intellijidea&logoColor=white"><img src="https://img.shields.io/badge/google Team Drive-010AFB?style=for-the-badge&logo=googledrive&logoColor=white">
 
 # 프로젝트 소개
 

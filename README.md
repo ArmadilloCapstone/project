@@ -45,3 +45,4 @@
 https://drive.google.com/drive/u/1/folders/105wbcwjUgqJ5kpBFWA2wyeBdutyHN6e5
 
 # DB 스키마
+![DB스키마](https://github.com/ArmadilloCapstone/project/assets/48822536/0a41315f-26d4-4b16-bf31-5b6528446363)
